@@ -36,7 +36,7 @@ ___<__(|) _   **-/  / /   /
       /  / /   /  
      /  |,'   /  
     :   /    /
-    [  /   ,'     ~> DDoS Tool<~
+    [  /   ,'     ~> Tool nyerang web<~
     | /  ,'      ~~>Created By ZHICCO<~~
     |/,-'
     '  """
