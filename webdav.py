@@ -69,7 +69,7 @@ def cekfile():
  print("""
 [*] WebDAV File Upload Exploiter
 [*] Coded To Python By Mr.chainner Cyber Team
-[*] MY TEAM:MR.CHAINNER/.MR.VXDX/.RIPKI/.MR.SADBOY
+[*] MY TEAM:MR.CHAINNER/.MR.VXDX1/.RIPKI/.MR.SADBOY
 """)
  print("[*] Cek File Di Target : "+sys.argv[1]+"/"+sys.argv[2])
  r = requests.get(sys.argv[1] +"/"+ sys.argv[2])
